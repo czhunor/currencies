@@ -72,7 +72,7 @@ if __name__ == "__main__":
     usd1 = Currency(50, 'USD')
     usd1.amount = 155.0
     print(usd1)
-    usd2 = Currency(250, 'USD')
+    usd2 = Currency(270, 'USD')
     print(usd2)
     usd2 = usd1 + usd2
     print(usd2)
